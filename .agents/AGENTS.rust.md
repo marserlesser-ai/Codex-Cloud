@@ -1,4 +1,4 @@
-# AGENTS.md
+# AGENTS.rust.md
 
 This document helps AI agents work effectively in this codebase.
 
